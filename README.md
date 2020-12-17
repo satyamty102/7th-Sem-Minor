@@ -1,1 +1,1 @@
-# 7th-Sem-Minor
+# Hadoop-Automation
